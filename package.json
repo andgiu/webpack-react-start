@@ -1,5 +1,5 @@
 {
-  "name": "lin.bert-website",
+  "name": "webpack-react-start",
   "version": "1.0.0",
   "description": "",
   "main": "",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yiwenl/lin.bert-website.git"
+    "url": "git+https://github.com/andgiu/webpack-react-start.git"
   },
   "author": "Andrea Giuffrida",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yiwenl/lin.bert-website/issues"
+    "url": "https://github.com/andgiu/webpack-react-start/issues"
   },
-  "homepage": "https://github.com/yiwenl/lin.bert-website#readme",
+  "homepage": "https://github.com/andgiu/webpack-react-start#readme",
   "dependencies": {
     "react": "^15.4.0",
     "react-dom": "^15.4.0",
